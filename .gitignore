@@ -6,7 +6,6 @@ yarn.lock
 
 # Build artifacts
 dist/
-output.css
 
 # IDE and OS
 .vscode/
