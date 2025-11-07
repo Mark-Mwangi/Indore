@@ -1,0 +1,20 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+output.css
+
+# IDE and OS
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
+
+# OneDrive temp or sync folders
+~$*
+*.tmp
+*.bak
