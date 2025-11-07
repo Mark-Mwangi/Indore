@@ -68,7 +68,7 @@ npm run watch
 - `assets/`, `Images/` — images and static assets
 
 ## 🔗 Live demo
-[Visit the demo](https://indoreplant.netlify.app)
+[Visit the demo](https://indoreplantwebsite.netlify.app)
 
 ---
 
